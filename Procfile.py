@@ -4,4 +4,5 @@ Created on Mon Nov 24 02:43:25 2025
 
 @author: User
 """
-worker: python RahnamayeTahsili29_Bot.py
+worker: python main.py
+
